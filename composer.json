@@ -12,6 +12,8 @@
       "email": "ruben@rubensayshi.com"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "BitWasp\\Buffertools\\": "src/Buffertools/"
